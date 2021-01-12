@@ -1,2 +1,3 @@
 # webpack-base
-项目中的基本webpack配置
+webpack搭建项目脚手架
+基础架构
