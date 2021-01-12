@@ -1,0 +1,25 @@
+{
+  "name": "webpack-base",
+  "version": "1.0.0",
+  "description": "webpack搭建项目脚手架\r 基础架构",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caozhengqian/webpack-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caozhengqian/webpack-base/issues"
+  },
+  "homepage": "https://github.com/caozhengqian/webpack-base#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.13.0",
+    "webpack-cli": "^4.3.1"
+  }
+}
